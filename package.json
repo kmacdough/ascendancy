@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kmacdough/ascendancy/issues"
   },
-  "homepage": "https://github.com/kmacdough/ascendancy#readme"
+  "homepage": "https://github.com/kmacdough/ascendancy#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
